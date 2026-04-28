@@ -6,6 +6,9 @@
 
 **📄 [Read the full paper on IEEE Xplore here](https://ieeexplore.ieee.org/document/11460795)**
 
+<img width="1979" height="540" alt="image" src="https://github.com/user-attachments/assets/89697bf0-872f-48d1-bbcf-98e297706392" />
+
+
 ## 📌 Abstract
 **ECG TransNet** addresses multi-label classification of 12-lead ECGs by modeling both within-lead morphology and cross-lead interactions. Our architecture utilizes:
 * **ASPP-Conv Block:** Extracts multi-scale temporal features for each lead.
