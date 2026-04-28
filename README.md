@@ -6,8 +6,7 @@
 
 **📄 [Read the full paper on IEEE Xplore here](https://ieeexplore.ieee.org/document/11460795)**
 
-<img width="1979" height="540" alt="image" src="https://github.com/user-attachments/assets/89697bf0-872f-48d1-bbcf-98e297706392" />
-
+<img width="1978" height="542" alt="image" src="https://github.com/user-attachments/assets/9521df62-68b9-423b-96c1-c8891bac479d" />
 
 ## 📌 Abstract
 **ECG TransNet** addresses multi-label classification of 12-lead ECGs by modeling both within-lead morphology and cross-lead interactions. Our architecture utilizes:
