@@ -25,7 +25,7 @@ Follow the steps below to replicate the environment, prepare the dataset, and tr
 First, clone the repository and install the required dependencies. It is recommended to use a virtual environment (e.g., Anaconda or venv).
 
 ```bash
-git clone [https://github.com/your-username/ECG-TransNet.git](https://github.com/your-username/ECG-TransNet.git)
+git clone [https://github.com/JaeBinCHA7/ECG-TransNet.git](https://github.com/JaeBinCHA7/ECG-TransNet.git)
 cd ECG-TransNet
 pip install -r requirments.txt
 ```
